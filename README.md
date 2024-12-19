@@ -12,10 +12,13 @@
 ## Пример работы
 
 Кнопка вызова действия
+
 <img width="264" alt="Снимок экрана 2024-12-19 в 21 43 13" src="https://github.com/user-attachments/assets/c123f2a5-2356-4df5-8d38-9986a9a4dece" />
 
 Диалоговое окно выбора
+
 <img width="262" alt="Снимок экрана 2024-12-19 в 21 43 26" src="https://github.com/user-attachments/assets/0d8937c8-bea7-4030-96ac-0060dd162b49" />
 
 Пример вставленной структуры данных
+
 <img width="480" alt="Снимок экрана 2024-12-19 в 21 43 32" src="https://github.com/user-attachments/assets/73a5d5cc-7495-41f4-83e3-3c615ef250fb" />
